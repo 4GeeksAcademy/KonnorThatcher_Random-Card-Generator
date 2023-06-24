@@ -1,1 +1,16 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+    background-color: darkgreen;
+}
+
+.card {
+    height: 350px;
+    width: 250px;
+}
+
+#rank {
+    font-size: 8em;
+}
+
+#img-2 {
+    transform: rotate(180deg);
+}
